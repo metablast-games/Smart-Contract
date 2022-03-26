@@ -1,2 +1,2 @@
 # Smart-Contract
-Audited BLAST Smart-contract
+Audited BLAST Token Smart-contract
